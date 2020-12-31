@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30803.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banana Server", "Banana Server.csproj", "{30DDDABD-C1E2-4764-AAFA-3FE70D6F68BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banana Client", "..\Banana Client\Banana Client.csproj", "{4D0BE7D2-A118-4E46-96A1-792AAF0D560E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30DDDABD-C1E2-4764-AAFA-3FE70D6F68BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30DDDABD-C1E2-4764-AAFA-3FE70D6F68BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30DDDABD-C1E2-4764-AAFA-3FE70D6F68BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30DDDABD-C1E2-4764-AAFA-3FE70D6F68BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D0BE7D2-A118-4E46-96A1-792AAF0D560E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D0BE7D2-A118-4E46-96A1-792AAF0D560E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D0BE7D2-A118-4E46-96A1-792AAF0D560E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D0BE7D2-A118-4E46-96A1-792AAF0D560E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4139F419-5C19-4942-BC2D-B905EA467431}
+	EndGlobalSection
+EndGlobal

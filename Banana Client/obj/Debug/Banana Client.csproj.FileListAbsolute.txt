@@ -1,0 +1,24 @@
+C:\Users\fikret\source\repos\Banana Client\bin\Debug\Banana Client.exe.config
+C:\Users\fikret\source\repos\Banana Client\bin\Debug\Banana Client.exe
+C:\Users\fikret\source\repos\Banana Client\bin\Debug\Banana Client.pdb
+C:\Users\fikret\source\repos\Banana Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fikret\source\repos\Banana Client\bin\Debug\WatsonTcp.dll
+C:\Users\fikret\source\repos\Banana Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fikret\source\repos\Banana Client\bin\Debug\WatsonTcp.xml
+C:\Users\fikret\source\repos\Banana Client\obj\Debug\Banana Client.csprojAssemblyReference.cache
+C:\Users\fikret\source\repos\Banana Client\obj\Debug\Banana Client.csproj.CoreCompileInputs.cache
+C:\Users\fikret\source\repos\Banana Client\obj\Debug\Banana Client.csproj.CopyComplete
+C:\Users\fikret\source\repos\Banana Client\obj\Debug\Banana Client.exe
+C:\Users\fikret\source\repos\Banana Client\obj\Debug\Banana Client.pdb
+C:\Users\fikret\Documents\repos2\repos\Banana Client\bin\Debug\Banana Client.exe.config
+C:\Users\fikret\Documents\repos2\repos\Banana Client\bin\Debug\Banana Client.exe
+C:\Users\fikret\Documents\repos2\repos\Banana Client\bin\Debug\Banana Client.pdb
+C:\Users\fikret\Documents\repos2\repos\Banana Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fikret\Documents\repos2\repos\Banana Client\bin\Debug\WatsonTcp.dll
+C:\Users\fikret\Documents\repos2\repos\Banana Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fikret\Documents\repos2\repos\Banana Client\bin\Debug\WatsonTcp.xml
+C:\Users\fikret\Documents\repos2\repos\Banana Client\obj\Debug\Banana Client.csprojAssemblyReference.cache
+C:\Users\fikret\Documents\repos2\repos\Banana Client\obj\Debug\Banana Client.csproj.CoreCompileInputs.cache
+C:\Users\fikret\Documents\repos2\repos\Banana Client\obj\Debug\Banana Client.csproj.CopyComplete
+C:\Users\fikret\Documents\repos2\repos\Banana Client\obj\Debug\Banana Client.exe
+C:\Users\fikret\Documents\repos2\repos\Banana Client\obj\Debug\Banana Client.pdb

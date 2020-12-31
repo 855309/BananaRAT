@@ -1,0 +1,40 @@
+C:\Users\fikret\source\repos\Banana\bin\Debug\Banana.exe.config
+C:\Users\fikret\source\repos\Banana\bin\Debug\Banana.exe
+C:\Users\fikret\source\repos\Banana\bin\Debug\Banana.pdb
+C:\Users\fikret\source\repos\Banana\obj\Debug\Banana Server.csprojAssemblyReference.cache
+C:\Users\fikret\source\repos\Banana\obj\Debug\Banana.Form1.resources
+C:\Users\fikret\source\repos\Banana\obj\Debug\Banana.Properties.Resources.resources
+C:\Users\fikret\source\repos\Banana\obj\Debug\Banana Server.csproj.GenerateResource.cache
+C:\Users\fikret\source\repos\Banana\obj\Debug\Banana Server.csproj.CoreCompileInputs.cache
+C:\Users\fikret\source\repos\Banana\obj\Debug\Banana.exe
+C:\Users\fikret\source\repos\Banana\obj\Debug\Banana.pdb
+C:\Users\fikret\source\repos\Banana\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fikret\source\repos\Banana\bin\Debug\WatsonTcp.dll
+C:\Users\fikret\source\repos\Banana\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fikret\source\repos\Banana\bin\Debug\WatsonTcp.xml
+C:\Users\fikret\source\repos\Banana\obj\Debug\Banana Server.csproj.CopyComplete
+C:\Users\fikret\source\repos\Banana\obj\Debug\Banana.MesajJUAN.resources
+C:\Users\fikret\source\repos\Banana\obj\Debug\Banana.MasaustuGoruntuleme.resources
+C:\Users\fikret\source\repos\Banana\obj\Debug\Banana.MesajBox.resources
+C:\Users\fikret\source\repos\Banana\obj\Debug\Banana.KameraIzleme.resources
+C:\Users\fikret\source\repos\Banana\obj\Debug\Banana.DosyaCalistir.resources
+C:\Users\fikret\Documents\repos2\repos\Banana\bin\Debug\Banana.exe.config
+C:\Users\fikret\Documents\repos2\repos\Banana\bin\Debug\Banana.exe
+C:\Users\fikret\Documents\repos2\repos\Banana\bin\Debug\Banana.pdb
+C:\Users\fikret\Documents\repos2\repos\Banana\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fikret\Documents\repos2\repos\Banana\bin\Debug\WatsonTcp.dll
+C:\Users\fikret\Documents\repos2\repos\Banana\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fikret\Documents\repos2\repos\Banana\bin\Debug\WatsonTcp.xml
+C:\Users\fikret\Documents\repos2\repos\Banana\obj\Debug\Banana Server.csprojAssemblyReference.cache
+C:\Users\fikret\Documents\repos2\repos\Banana\obj\Debug\Banana.Form1.resources
+C:\Users\fikret\Documents\repos2\repos\Banana\obj\Debug\Banana.DosyaCalistir.resources
+C:\Users\fikret\Documents\repos2\repos\Banana\obj\Debug\Banana.KameraIzleme.resources
+C:\Users\fikret\Documents\repos2\repos\Banana\obj\Debug\Banana.MasaustuGoruntuleme.resources
+C:\Users\fikret\Documents\repos2\repos\Banana\obj\Debug\Banana.MesajBox.resources
+C:\Users\fikret\Documents\repos2\repos\Banana\obj\Debug\Banana.MesajJUAN.resources
+C:\Users\fikret\Documents\repos2\repos\Banana\obj\Debug\Banana.Properties.Resources.resources
+C:\Users\fikret\Documents\repos2\repos\Banana\obj\Debug\Banana Server.csproj.GenerateResource.cache
+C:\Users\fikret\Documents\repos2\repos\Banana\obj\Debug\Banana Server.csproj.CoreCompileInputs.cache
+C:\Users\fikret\Documents\repos2\repos\Banana\obj\Debug\Banana Server.csproj.CopyComplete
+C:\Users\fikret\Documents\repos2\repos\Banana\obj\Debug\Banana.exe
+C:\Users\fikret\Documents\repos2\repos\Banana\obj\Debug\Banana.pdb
